@@ -1,6 +1,6 @@
 {
     "name": "vue-material-paginator",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Material paginator for personal projects",
     "main": "src/index.js",
     "repository": "https://github.com/devLopez/vue-material-paginator",
