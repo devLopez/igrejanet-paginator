@@ -120,23 +120,23 @@
             },
 
             onClickFirstPage() {
-                this.$emit('pagechanged', 1);
+                this.$emit('pageChanged', 1);
             },
 
             onClickPreviousPage() {
-                this.$emit('pagechanged', this.currentPage - 1);
+                this.$emit('pageChanged', this.currentPage - 1);
             },
 
             onClickPage(page) {
-                this.$emit('pagechanged', page);
+                this.$emit('pageChanged', page);
             },
 
             onClickNextPage() {
-                this.$emit('pagechanged', this.currentPage + 1);
+                this.$emit('pageChanged', this.currentPage + 1);
             },
 
             onClickLastPage() {
-                this.$emit('pagechanged', this.totalPages);
+                this.$emit('pageChanged', this.totalPages);
             },
 
             isPageActive(page) {
