@@ -1,9 +1,8 @@
 {
-    "name": "vue-material-paginator",
-    "version": "1.0.1",
-    "description": "Material paginator for personal projects",
+    "name": "@igrejanet/pagination",
+    "description": "Igrejanet Pagination Component for Vue and Bootstrap Material",
     "main": "src/index.js",
-    "repository": "https://github.com/devLopez/vue-material-paginator",
+    "repository": "https://github.com/devLopez/igrejanet-paginator",
     "author": "Matheus Lopes Santos <fale_com_lopez@hotmail.com>",
     "license": "MIT",
     "scripts": {
